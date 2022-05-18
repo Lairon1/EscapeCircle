@@ -1,0 +1,13 @@
+name: EscapeCircle
+version: '${project.version}'
+main: com.lairon.plugin.escapecircle.EscapeCircle
+api-version: 1.16
+depend: [ Citizens ]
+authors: [ Lairon1 ]
+description: Майнкрафт, Но Ты Не Можешь Покинуть Этот Круг…
+website: https://vk.com/mysouliscry
+commands:
+  lavaspeed:
+    description: "Устанавливает скорость для лавы. Стандартное значение 60, чем меньше тум быстрее"
+  HallStart:
+  AmogusStart:
